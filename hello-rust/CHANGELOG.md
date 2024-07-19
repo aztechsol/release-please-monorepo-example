@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/aztechsol/release-please-monorepo-example/compare/hello_rust@v0.1.0...hello_rust@v0.2.0) (2024-07-19)
+
+
+### Miscellaneous Chores
+
+* release 0.1.1 ([378e8ca](https://github.com/aztechsol/release-please-monorepo-example/commit/378e8caf94f2d6dd91c8ffaa56325fb57a513038))
+* release 0.1.2 ([5b0336c](https://github.com/aztechsol/release-please-monorepo-example/commit/5b0336c27f4297347e1ba788753088b23a440a11))
+* release 0.1.2 ([af3be99](https://github.com/aztechsol/release-please-monorepo-example/commit/af3be99689428c02e735769ec7348a8992dfcfce))
+* release 0.1.2 ([f1cb233](https://github.com/aztechsol/release-please-monorepo-example/commit/f1cb233e4c72cc353d3c7ba790cb48ac38e38bf6))
+* release 0.1.2 ([b1c7351](https://github.com/aztechsol/release-please-monorepo-example/commit/b1c73516a40a5b6d0b3d68c3ed3457e7cc0c22e4))
+
 ## [0.1.0](https://github.com/aztechsol/release-please-monorepo-example/compare/hello_rust-v0.2.0...hello_rust@v0.1.0) (2024-07-19)
 
 
